@@ -1,0 +1,6 @@
+netstat -a -b -n -o
+
+netstat -aon
+
+tasklist
+
